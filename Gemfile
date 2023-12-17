@@ -1,8 +1,7 @@
 source "https://rubygems.org"
-ruby '~> 3.1.3'
 
-gem "github-pages", group: :jekyll_plugins
-
+# gem "github-pages", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
