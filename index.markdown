@@ -8,7 +8,7 @@ title: About
 
 We identify your AI's failure modes and help you fix them.
 
-Our system is the state-of-the-art in model evaluation.
+Built by America's top AI researchers, our system is state-of-the-art in model evaluation.
 
 
 ## Contact
